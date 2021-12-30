@@ -9,14 +9,14 @@
 [![Icloud](https://img.shields.io/badge/-Icloud-blue?style=flat&logo=Minutemailer&logoColor=white)](mailto:codewill@icloud.com)
 [![Blog](https://img.shields.io/badge/-Blog-c14438?style=flat&logo=GitBook&logoColor=white)](https://www.willma.cloud/)
 
-once it flies, will soar high into the sky; once it cries, it will startle the world with a single cry.
+once it flies, will soar high into the sky; once it cries, it will startle the world with a single cry. again, once it flies, will soar high into the sky; once it cries, it will startle the world with a single cry.
 
 <img align="right" alt="img" src="./90270494_p3_master1200.jpg" width="50%" height="auto" />
 
 
 #### 🎵 Things I am currently working on:
 
-- Research monitoring system.jiankong.
+- Research monitoring system.
 - Configure the vim editor.
 - Develop plug-ins for O&M tools on [exporter](https://willma.cloud).
 
