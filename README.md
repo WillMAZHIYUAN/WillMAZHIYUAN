@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏿, I'm WillMA</h1>
-<h3 align="center">An Ops Developer</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <!--
 **WillMAZHIYUAN/WillMAZHIYUAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,28 +9,28 @@
 [![Icloud](https://img.shields.io/badge/-Icloud-blue?style=flat&logo=Minutemailer&logoColor=white)](mailto:codewill@icloud.com)
 [![Blog](https://img.shields.io/badge/-Blog-c14438?style=flat&logo=GitBook&logoColor=white)](https://www.willma.cloud/)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!
+once it flies, will soar high into the sky; once it cries, it will startle the world with a single cry.
 
 <img align="right" alt="img" src="./90270494_p3_master1200.jpg" width="50%" height="auto" />
 
 
 #### 🎵 Things I am currently working on:
 
-- Finish my Computer Engineering Master Degree
-- Taking online courses about Data Science and ML
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Research monitoring system.jiankong.
+- Configure the vim editor.
+- Develop plug-ins for O&M tools on [exporter](https://willma.cloud).
 
 #### 🏀 Things I am challenging myself with:
 
-- Waking up earlier to make good use of the day
+- One hour of piano practice per day
+- Play basketball one hour a day
 - Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Write three blogs per week
 
 #### 💻 Programming languages and tools:
 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=willmazhiyuan&show_icons=true&theme=bear" alt="willmazhiyuan" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=willmazhiyuan&show_icons=true&theme=radical&hide_border=true" alt="willmazhiyuan" />
 <br/>
 
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
@@ -52,26 +52,14 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 ---
 <!-- Its main projects -->
-<p align="center">
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&hide_border=true&card_width=485"/>
+  </a>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=bear" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=cobalt2&hide_border=true&show_owner=true" />
   </a>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=solarized-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=solarized-dark&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=cobalt2" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=panda" />
-  </a>
-</p>
-
----
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear"/>
-  </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear"/>
 </p>
