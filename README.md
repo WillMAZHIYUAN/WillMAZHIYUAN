@@ -11,7 +11,7 @@
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!
 
-<img align="right" alt="img" src="" width="50%" height="auto" />
+<img align="right" alt="img" src="./90270494_p3_master1200.jpg" width="50%" height="auto" />
 
 
 #### 🎵 Things I am currently working on:
@@ -74,8 +74,4 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear"/>
-  </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear"/>
-  </a>
 </p>
