@@ -54,12 +54,12 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 <!-- Its main projects -->
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&hide_border=true&card_width=auto"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&hide_border=true&card_width=auto"/>
   </a>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=cobalt2&hide_border=true&show_owner=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=cobalt2&hide_border=true&show_owner=true" />
   </a>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=solarized-dark&hide_border=true&show_owner=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=solarized-dark&hide_border=true&show_owner=true" />
   </a>
 </p>
