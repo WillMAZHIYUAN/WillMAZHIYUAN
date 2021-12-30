@@ -54,7 +54,7 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 <!-- Its main projects -->
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&hide_border=true&card_width=400"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&hide_border=true&card_width=360"/>
   </a>
   <a href="https://github.com/onimur/handle-path-oz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=cobalt2&hide_border=true&show_owner=true" />
