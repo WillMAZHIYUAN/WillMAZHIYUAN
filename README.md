@@ -59,7 +59,7 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
   <a href="https://github.com/prometheus/node_exporter">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=prometheus&repo=node_exporter&theme=cobalt2&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://hub.fastgit.org/opendevops-cn/opendevops">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=opendevops-cn&repo=opendevops&theme=solarized-dark&hide_border=true&show_owner=true" />
+  <a href="https://hub.fastgit.org/openspug/spug">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=openspug&repo=spug&theme=solarized-dark&hide_border=true&show_owner=true" />
   </a>
 </p>
