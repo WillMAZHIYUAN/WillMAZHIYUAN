@@ -56,10 +56,10 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&hide_border=true&card_width=auto"/>
   </a>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=cobalt2&hide_border=true&show_owner=true" />
+  <a href="https://github.com/prometheus/node_exporter">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=prometheus&repo=node_exporter&theme=cobalt2&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz&theme=solarized-dark&hide_border=true&show_owner=true" />
+  <a href="https://hub.fastgit.org/Tencent/bk-cmdb">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Tencent&repo=bk-cmdb&theme=solarized-dark&hide_border=true&show_owner=true" />
   </a>
 </p>
