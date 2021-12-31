@@ -18,7 +18,7 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 
 - Research monitoring system.
 - Configure the vim editor.
-- Develop plug-ins for O&M tools on [exporter](https://willma.cloud).
+- Develop plug-ins for O&M tools on [plugin](https://willma.cloud).
 
 #### 🏀 Things I am challenging myself with:
 
