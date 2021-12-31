@@ -6,7 +6,7 @@
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WillMAZHIYUAN)
-[![cloud](https://img.shields.io/badge/-Icloud-blue?style=flat&logo=Minutemailer&logoColor=white)](mailto:codewill@icloud.com)
+[![iCloud](https://img.shields.io/badge/-iCloud-blue?style=flat&logo=Minutemailer&logoColor=white)](mailto:codewill@icloud.com)
 [![Blog](https://img.shields.io/badge/-Blog-c14438?style=flat&logo=GitBook&logoColor=white)](https://www.willma.cloud/)
 
 once it flies, will soar high into the sky; once it cries, it will startle the world with a single cry. again, once it flies, will soar high into the sky; once it cries, it will startle the world with a single cry.
