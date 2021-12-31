@@ -53,13 +53,15 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 ---
 <!-- Its main projects -->
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=bear&hide_border=true&card_width=auto"/>
+  <a href="https://WillMAZHIYUAN/WillMAZHIYUAN">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillMAZHIYUAN&theme=bear&hide_border=true"/>
   </a>
-  <a href="https://github.com/prometheus/node_exporter">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=prometheus&repo=node_exporter&theme=cobalt2&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://hub.fastgit.org/openspug/spug">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=openspug&repo=spug&theme=solarized-dark&hide_border=true&show_owner=true" />
-  </a>
+  <p>
+    <a href="https://github.com/prometheus/node_exporter">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=prometheus&repo=node_exporter&theme=cobalt2&hide_border=true&show_owner=true" />
+    </a>
+    <a href="https://hub.fastgit.org/fboender/ansible-cmdb">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fboender&repo=ansible-cmdb&theme=solarized-dark&hide_border=true&show_owner=true" />
+    </a>
+  </p>
 </p>
