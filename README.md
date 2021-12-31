@@ -11,7 +11,7 @@
 
 once it flies, will soar high into the sky; once it cries, it will startle the world with a single cry. again, once it flies, will soar high into the sky; once it cries, it will startle the world with a single cry.
 
-<img align="right" alt="img" src="./90270494_p3_master1200.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="./image/ll.jpg" width="50%" height="auto" />
 
 
 #### 🎹 Things I am currently working on:
