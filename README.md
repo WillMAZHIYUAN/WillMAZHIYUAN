@@ -14,7 +14,7 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 <img align="right" alt="img" src="./90270494_p3_master1200.jpg" width="50%" height="auto" />
 
 
-#### 🎵 Things I am currently working on:
+#### 🎹 Things I am currently working on:
 
 - Research monitoring system.
 - Configure the vim editor.
@@ -40,7 +40,7 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></code>
 <br />
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+<code><img width="5%" src="https://github.com/gilbarbara/logos/blob/master/logos/osquery.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
