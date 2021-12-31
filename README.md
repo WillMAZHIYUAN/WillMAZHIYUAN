@@ -17,15 +17,15 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 #### 🎹 Things I am currently working on:
 
 - Research monitoring system.
-- Configure the vim editor.
-- Develop plug-ins for O&M tools on [plugin](https://willma.cloud).
+- Polishing the vim editor.
+- O&M tool-based development on [plugin](https://willma.cloud).
 
 #### 🏀 Things I am challenging myself with:
 
-- One hour of piano practice per day
-- Play basketball one hour a day
 - Coding at least 4 hours a day
-- Write three blogs per week
+- Output one blog per week
+- Piano practice three times a week
+- Sharpening basketball skills three times a week
 
 #### 💻 Programming languages and tools:
 
@@ -50,8 +50,8 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 <br />
 </p>
 
----
 <!-- Its main projects
+---
 <p>
   <a href="https://WillMAZHIYUAN/WillMAZHIYUAN">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fboender&theme=bear&hide_border=true"/>
