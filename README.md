@@ -27,7 +27,7 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 - Piano practice three times a week
 - Sharpening basketball skills three times a week
 
-#### 💻 Programming languages and tools:
+#### 💻 Programming Languages and O&M Tools:
 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=willmazhiyuan&show_icons=true&theme=radical&hide_border=true" alt="willmazhiyuan" />
