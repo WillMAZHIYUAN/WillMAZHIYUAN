@@ -47,19 +47,17 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 <br />
 </p>
 
-<!-- Its main projects
+<!-- Its main projects 
 ---
 <p>
   <a href="https://WillMAZHIYUAN/WillMAZHIYUAN">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fboender&theme=bear&hide_border=true"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillMAZHIYUAN&theme=bear&hide_border=true"/>
   </a>
-  <p>
-    <a href="https://github.com/prometheus/node_exporter">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=prometheus&repo=node_exporter&theme=cobalt2&hide_border=true&show_owner=true" />
-    </a>
-    <a href="https://hub.fastgit.org/fboender/ansible-cmdb">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fboender&repo=ansible-cmdb&theme=solarized-dark&hide_border=true&show_owner=true" />
-    </a>
-  </p>
+  <a href="https://github.com/WillMAZHIYUAN/NoteBook_Go">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMAZHIYUAN&repo=NoteBook_Go&theme=cobalt2&hide_border=true&show_owner=true" />
+  </a>
+  <a href="https://github.com/WillMAZHIYUAN/NoteBook_Py">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMAZHIYUAN&repo=NoteBook_Py&theme=solarized-dark&hide_border=true&show_owner=true" />
+  </a>
 </p>
  -->
