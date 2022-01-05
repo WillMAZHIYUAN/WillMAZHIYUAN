@@ -28,7 +28,10 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 
 <p>
   <a href="https://WillMAZHIYUAN/WillMAZHIYUAN">
+    <!--
     <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillMAZHIYUAN&theme=radical&hide_border=true"/>
+    -->
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=willmazhiyuan&show_icons=true&theme=radical&hide_border=true" alt="willmazhiyuan" />
   </a>
 <br/>
 
