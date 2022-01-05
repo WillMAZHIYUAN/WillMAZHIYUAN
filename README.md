@@ -27,7 +27,9 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 #### 💻 Programming Languages and O&M Tools:
 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=willmazhiyuan&show_icons=true&theme=radical&hide_border=true" alt="willmazhiyuan" />
+  <a href="https://WillMAZHIYUAN/WillMAZHIYUAN">
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillMAZHIYUAN&theme=radical&hide_border=true"/>
+  </a>
 <br/>
 
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
@@ -46,18 +48,3 @@ once it flies, will soar high into the sky; once it cries, it will startle the w
 
 <br />
 </p>
-
-<!-- Its main projects 
----
-<p>
-  <a href="https://WillMAZHIYUAN/WillMAZHIYUAN">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillMAZHIYUAN&theme=bear&hide_border=true"/>
-  </a>
-  <a href="https://github.com/WillMAZHIYUAN/NoteBook_Go">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMAZHIYUAN&repo=NoteBook_Go&theme=cobalt2&hide_border=true&show_owner=true" />
-  </a>
-  <a href="https://github.com/WillMAZHIYUAN/NoteBook_Py">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=WillMAZHIYUAN&repo=NoteBook_Py&theme=solarized-dark&hide_border=true&show_owner=true" />
-  </a>
-</p>
- -->
