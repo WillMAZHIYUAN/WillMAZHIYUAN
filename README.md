@@ -10,7 +10,7 @@
 
 yesterday is history , tomorrow is a mistery. but today is a gift , that is why it is called the present. focusing on the present moment, once it flies, will soar high into the sky; once it cries, it will startle the world. 
 
-<img align="right" alt="img" src="./image/ll.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="./image/ll.jpg" width="55%" height="auto" />
 
 
 #### 🎹 Things I am currently working on:
