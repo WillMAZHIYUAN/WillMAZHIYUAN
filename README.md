@@ -6,9 +6,9 @@
 [![iCloud](https://img.shields.io/badge/-iCloud-blue?style=flat&logo=Minutemailer&logoColor=white)](mailto:codewill@icloud.com)
 [![Blog](https://img.shields.io/badge/-Blog-c14438?style=flat&logo=GitBook&logoColor=white)](https://www.willma.cloud/)
 
-#### 🎮 Motto
+#### 🎮 Motto:
 
-once it flies, will soar high into the sky; once it cries, it will startle the world. again, once it flies, will soar high into the sky; once it cries, it will startle the world.
+yesterday is history , tomorrow is a mistery. but today is a gift , that is why it is called the present. focusing on the present moment, once it flies, will soar high into the sky; once it cries, it will startle the world. 
 
 <img align="right" alt="img" src="./image/ll.jpg" width="50%" height="auto" />
 
