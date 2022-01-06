@@ -6,7 +6,7 @@
 [![iCloud](https://img.shields.io/badge/-iCloud-blue?style=flat&logo=Minutemailer&logoColor=white)](mailto:codewill@icloud.com)
 [![Blog](https://img.shields.io/badge/-Blog-c14438?style=flat&logo=GitBook&logoColor=white)](https://www.willma.cloud/)
 
-once it flies, will soar high into the sky; once it cries, it will startle the world. again, once it flies, will soar high into the sky; once it cries, it will startle the world.
+🎮 once it flies, will soar high into the sky; once it cries, it will startle the world. again, once it flies, will soar high into the sky; once it cries, it will startle the world.
 
 <img align="right" alt="img" src="./image/ll.jpg" width="50%" height="auto" />
 
