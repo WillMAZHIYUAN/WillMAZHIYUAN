@@ -38,16 +38,16 @@ yesterday is history , tomorrow is a mistery. but today is a gift , that is why 
 <br/>
 
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></code>
 <br />
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/1920px-Icon-Mac.svg.png"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/opentracingio/opentracingio-icon.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/grafana-loki.svg"></code>
 
