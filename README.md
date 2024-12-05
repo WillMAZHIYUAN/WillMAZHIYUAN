@@ -44,7 +44,7 @@ yesterday is history , tomorrow is a mistery. but today is a gift , that is why 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></code>
 <br />
-<code><img width="5%" src="https://github.com/gilbarbara/logos/blob/master/logos/osquery.svg"></code>
+<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
