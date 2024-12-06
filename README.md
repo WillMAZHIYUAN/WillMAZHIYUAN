@@ -1,32 +1,31 @@
 <h1 align="center">Hi 👋🏿, I'm WillMA</h1>
-<h3 align="center">To Be DevOps Engineer</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WillMAZHIYUAN)
 [![iCloud](https://img.shields.io/badge/-iCloud-blue?style=flat&logo=Minutemailer&logoColor=white)](mailto:codewill@icloud.com)
 [![Blog](https://img.shields.io/badge/-Blog-c14438?style=flat&logo=GitBook&logoColor=white)](https://www.willma.cloud/)
 
-#### 🎮 Motto:
+#### 📚 Motto To 🎬 :
 
-yesterday is history , tomorrow is a mistery. but today is a gift , that is why it is called the present. focusing on the present moment, once it flies, will soar high into the sky; once it cries, it will startle the world. 
+yesterday is history , tomorrow is a mistery. but today is a gift , that is why it is called the present.
 
 <img align="right" alt="img" src="./image/ll.jpg" width="55%" height="auto" />
 
 
-#### 🎹 Things I am currently working on:
+#### 🎵 Things I am currently working on 🎹 :
 
 - Research monitoring system.
 - Polishing the vim editor.
-- O&M tool-based development on [plugin](https://willma.cloud).
+- DevOps tool-based development.
 
-#### 🏀 Things I am challenging myself with:
+#### 🏀 Things I am challenging myself with 🎾 :
 
-- Coding at least 4 hours a day
-- Output one blog per week
+- Research Game 
 - Piano practice three times a week
-- Sharpening basketball skills three times a week
+- Sharpening basketball/tennis skills three times a week
 
-#### 🖥️ Programming Languages and O&M Tools:
+#### 🎮 Programming Tools For 🖥️ :
 
 <p>
   <a href="https://WillMAZHIYUAN/WillMAZHIYUAN">
