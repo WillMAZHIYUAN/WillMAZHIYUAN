@@ -10,8 +10,6 @@
 
 yesterday is history , tomorrow is a mistery. but today is a gift , that is why it is called the present.
 
-<img align="right" alt="img" src="./image/ll.jpg" width="55%" height="auto" marggin-top="20px" />
-
 
 #### 🎹 Things I am currently working on 🎵:
 
